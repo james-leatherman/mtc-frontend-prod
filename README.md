@@ -1,2 +1,2 @@
-# mtc-frontend-prod
-javascript code for MTC
+# This is the prod javascript repo for frontend developers.
+Last modified by: James Leatherman
